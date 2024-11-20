@@ -1,7 +1,7 @@
 ## Hi there, I'm David 👋
 
 - 🔭 I’m currently working on updating my digital footprint! 
-- 🌱 I’m currently learning all manner of things related to web-development and data science! Taking a breadth-first approach to improving my full-stack competency while building out a project showcasing website. 
+- 🌱 My focus is on full-stack analytics development! 
 - 💬 Ask me about the latest project I'm working on!
 - ⚡ Fun fact: I've been a member of github since 2012!
 
