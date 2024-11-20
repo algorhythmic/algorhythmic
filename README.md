@@ -1,9 +1,9 @@
 ## Hi there, I'm David 👋
 
-- 🔭 I’m currently working on updating my digital footprint! My personal website is under construction as I swap from jekyll to streamlit. 
+- 🔭 I’m currently working on updating my digital footprint! 
 - 🌱 I’m currently learning all manner of things related to web-development and data science! Taking a breadth-first approach to improving my full-stack competency while building out a project showcasing website. 
 - 💬 Ask me about the latest project I'm working on!
-- ⚡ Fun fact: I've been a member of github since 2012! Just don't look at my contribution history 😅
+- ⚡ Fun fact: I've been a member of github since 2012!
 
 <!--
 **algorhythmic/algorhythmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
