@@ -1,6 +1,6 @@
 ## Hi there, I'm David 👋
 
-- 🔭 I’m currently working on updating my digital footprint! 
+- 🔭 I’m currently working on my personal portfolio website! 
 - 🌱 My focus is on full-stack analytics development! 
 - 💬 Ask me about the latest project I'm working on!
 - ⚡ Fun fact: I've been a member of github since 2012!
