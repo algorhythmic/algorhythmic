@@ -1,9 +1,8 @@
 ## Hi there, I'm David 👋
 
 - 🔭 I’m currently working on my personal portfolio website! 
-- 🌱 My focus is on full-stack analytics development! 
+- ⚡ My focus is on full-stack analytics development! 
 - 💬 Ask me about the latest project I'm working on!
-- ⚡ Fun fact: I've been a member of github since 2012!
 
 <!--
 **algorhythmic/algorhythmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
