@@ -1,6 +1,6 @@
 ## Hi there, I'm David 👋
 
-- 🔭 I’m currently working on my personal portfolio website! 
+- 🔭 I’m currently working on my personal portfolio [website](https://daviddunn.tech)! 
 - ⚡ My focus is on full-stack analytics development! 
 - 💬 Ask me about the latest project I'm working on!
 
