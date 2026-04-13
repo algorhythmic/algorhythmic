@@ -1,8 +1,8 @@
 ## Hi there, I'm David 👋
 
-- 🔭 I’m currently working on my personal portfolio [website](https://daviddunn.tech)! 
-- ⚡ My focus is on full-stack analytics development! 
-- 💬 Ask me about the latest project I'm working on!
+- 🔭 Check out my dev portfolio [website](https://daviddunn.dev)! 
+- ⚡ My focus is on full-stack AI development! 
+- 💬 What do you think of my latest [project](https://github.com/algorhythmic/projectnexus)
 
 <!--
 **algorhythmic/algorhythmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
