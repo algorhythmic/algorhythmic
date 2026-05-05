@@ -1,8 +1,10 @@
 ## Hi there, I'm David 👋
 
+### Thanks for visiting!
 - 🔭 Check out my dev portfolio [website](https://daviddunn.dev)! 
 - ⚡ My focus is on full-stack AI development! 
-- 💬 What do you think of my latest [project](https://github.com/algorhythmic/projectnexus)?
+- 💬 What do you think of my latest [project](https://github.com/algorhythmic/saga)?
+- 🌱 I’m currently learning Kubernetes!
 
 <!--
 **algorhythmic/algorhythmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
