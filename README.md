@@ -5,7 +5,7 @@
 - ✨ Applied AI & Integration Engineering ✨
 - 🔭 Check out my dev portfolio [website](https://daviddunn.dev)! 
 - ⚡ My focus is on full-stack AI development! 
-- 💬 What do you think of my latest [project](https://github.com/algorhythmic/saga)?
+- 💬 What do you think of my latest [project](https://daviddunn.dev/#saga)?
 - 🌱 I’m currently learning Kubernetes!
 
 <!--
