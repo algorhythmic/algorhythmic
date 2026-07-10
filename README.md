@@ -5,7 +5,7 @@
 - ✨ Applied AI & Integration Engineering ✨
 - 🔭 Check out my dev portfolio [website](https://daviddunn.dev)! 
 - ⚡ My focus is on full-stack AI development! 
-- 💬 What do you think of my latest [project](https://daviddunn.dev/#saga)?
+- 💬 What do you think of my latest [project](https://dbriefly.daviddunn.dev/)?
 - 🌱 I’m currently learning Kubernetes!
 
 <!--
