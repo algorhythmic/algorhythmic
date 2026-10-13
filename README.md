@@ -21,8 +21,8 @@ Four small systems that let an AI agent do real work on a real computer. Every s
  
 ### Also built
  
-- [**Saga**](https://daviddunn.dev/projects#saga) — parallel Claude Code workers in sandboxed containers; a critic reviews every plan and I approve every merge (private repo)
-- [**dbriefly**](https://dbriefly.daviddunn.dev) — a daily audio brief built from 80+ sources, with a voice agent you can talk back to, at ~$0.03 per brief
+- [**Saga**](https://daviddunn.dev/projects#saga) — parallel agent workers in sandboxed containers; a critic reviews every plan and I approve every merge (private repo)
+- [**dbriefly**](https://dbriefly.daviddunn.dev) — a daily audio brief built from 80+ sources, with a voice agent you can talk back to, at ~$0.03 per brief (private repo)
 - [**Nexus**](https://github.com/algorhythmic/projectnexus) — real-time prediction-market intelligence that pre-filters 161M cross-platform pairs to ~1K before any LLM call; live at [marketfinder](https://marketfinder.daviddunn.dev)
 - [**steam-mcp**](https://github.com/algorhythmic/steam-mcp) — open-source MCP server for the Steam Web API (TypeScript)
 More on [daviddunn.dev](https://daviddunn.dev).
